@@ -1,0 +1,9 @@
+# Files to ignore
+.DS_Store
+.idea/
+
+dist/
+mock-server/public
+codecept/_output
+node_modules
+yarn-error.log
